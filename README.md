@@ -2,7 +2,9 @@
 
 Asset Pack Preview is a Python tool for previewing animations and icons in asset packs for the Xtreme firmware.
 
-![Asset Pack Preview Screenshot](screenshot.gif)
+<p align="center">
+  <img src="screenshot.png">
+</p>
 
 ## Installation
 
